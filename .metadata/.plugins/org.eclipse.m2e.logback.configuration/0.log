@@ -1,0 +1,301 @@
+2015-06-26 11:30:25,516 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/paullo/workspace/TaskApp/Task/App/pom.xml
+2015-06-26 11:30:32,601 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:30:35,362 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2015-06-26 11:30:35,363 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /App/src/main/resources
+2015-06-26 11:30:35,364 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2015-06-26 11:30:35,367 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:30:44,097 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2015-06-26 11:30:49,918 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:30:50,082 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:30:50,175 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:30:50,179 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:35:42,921 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:35:43,705 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom
+2015-06-26 11:35:43,928 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom
+2015-06-26 11:35:44,048 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+2015-06-26 11:35:45,479 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+2015-06-26 11:35:45,669 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:35:45,712 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:35:45,714 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:35:45,714 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 11:35:45,715 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 11:35:45,720 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:35:46,828 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:35:46,829 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:35:46,832 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:39:49,613 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:39:50,503 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-beans/3.0.7.RELEASE/spring-beans-3.0.7.RELEASE.pom
+2015-06-26 11:39:51,224 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-beans/3.0.7.RELEASE/spring-beans-3.0.7.RELEASE.pom
+2015-06-26 11:39:51,342 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-parent/3.0.7.RELEASE/spring-parent-3.0.7.RELEASE.pom
+2015-06-26 11:39:51,808 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-parent/3.0.7.RELEASE/spring-parent-3.0.7.RELEASE.pom
+2015-06-26 11:39:52,123 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-core/3.0.7.RELEASE/spring-core-3.0.7.RELEASE.pom
+2015-06-26 11:39:52,963 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-core/3.0.7.RELEASE/spring-core-3.0.7.RELEASE.pom
+2015-06-26 11:39:52,993 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-asm/3.0.7.RELEASE/spring-asm-3.0.7.RELEASE.pom
+2015-06-26 11:39:53,419 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-asm/3.0.7.RELEASE/spring-asm-3.0.7.RELEASE.pom
+2015-06-26 11:39:53,808 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-beans/3.0.7.RELEASE/spring-beans-3.0.7.RELEASE.jar
+2015-06-26 11:39:56,620 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-beans/3.0.7.RELEASE/spring-beans-3.0.7.RELEASE.jar
+2015-06-26 11:39:56,655 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-core/3.0.7.RELEASE/spring-core-3.0.7.RELEASE.jar
+2015-06-26 11:39:59,068 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-core/3.0.7.RELEASE/spring-core-3.0.7.RELEASE.jar
+2015-06-26 11:39:59,520 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-asm/3.0.7.RELEASE/spring-asm-3.0.7.RELEASE.jar
+2015-06-26 11:40:00,069 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-asm/3.0.7.RELEASE/spring-asm-3.0.7.RELEASE.jar
+2015-06-26 11:40:00,375 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:40:00,394 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:40:00,396 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:40:00,396 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 11:40:00,396 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 11:40:00,399 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:40:01,529 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:40:01,529 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:40:01,531 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:40:30,488 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:40:30,593 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-jdbc/3.0.7.RELEASE/spring-jdbc-3.0.7.RELEASE.pom
+2015-06-26 11:40:30,901 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-jdbc/3.0.7.RELEASE/spring-jdbc-3.0.7.RELEASE.pom
+2015-06-26 11:40:30,994 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-tx/3.0.7.RELEASE/spring-tx-3.0.7.RELEASE.pom
+2015-06-26 11:40:31,620 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-tx/3.0.7.RELEASE/spring-tx-3.0.7.RELEASE.pom
+2015-06-26 11:40:31,710 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-aop/3.0.7.RELEASE/spring-aop-3.0.7.RELEASE.pom
+2015-06-26 11:40:32,328 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-aop/3.0.7.RELEASE/spring-aop-3.0.7.RELEASE.pom
+2015-06-26 11:40:32,380 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-context/3.0.7.RELEASE/spring-context-3.0.7.RELEASE.pom
+2015-06-26 11:40:33,070 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-context/3.0.7.RELEASE/spring-context-3.0.7.RELEASE.pom
+2015-06-26 11:40:33,150 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-expression/3.0.7.RELEASE/spring-expression-3.0.7.RELEASE.pom
+2015-06-26 11:40:33,901 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-expression/3.0.7.RELEASE/spring-expression-3.0.7.RELEASE.pom
+2015-06-26 11:40:33,963 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-jdbc/3.0.7.RELEASE/spring-jdbc-3.0.7.RELEASE.jar
+2015-06-26 11:40:38,194 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-jdbc/3.0.7.RELEASE/spring-jdbc-3.0.7.RELEASE.jar
+2015-06-26 11:40:38,228 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-tx/3.0.7.RELEASE/spring-tx-3.0.7.RELEASE.jar
+2015-06-26 11:40:46,563 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-tx/3.0.7.RELEASE/spring-tx-3.0.7.RELEASE.jar
+2015-06-26 11:40:46,593 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-aop/3.0.7.RELEASE/spring-aop-3.0.7.RELEASE.jar
+2015-06-26 11:40:49,613 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-aop/3.0.7.RELEASE/spring-aop-3.0.7.RELEASE.jar
+2015-06-26 11:40:49,650 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-context/3.0.7.RELEASE/spring-context-3.0.7.RELEASE.jar
+2015-06-26 11:40:55,319 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-context/3.0.7.RELEASE/spring-context-3.0.7.RELEASE.jar
+2015-06-26 11:40:55,598 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-expression/3.0.7.RELEASE/spring-expression-3.0.7.RELEASE.jar
+2015-06-26 11:40:56,837 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/springframework/spring-expression/3.0.7.RELEASE/spring-expression-3.0.7.RELEASE.jar
+2015-06-26 11:40:57,190 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:40:57,190 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:40:57,192 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:40:57,192 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 11:40:57,192 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 11:40:57,196 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:40:57,574 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:40:57,575 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:40:57,576 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:40:58,636 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:40:58,880 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:40:58,881 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:40:58,882 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:40:58,883 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 11:40:58,883 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 11:40:58,887 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:52:00,897 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 11:52:01,370 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.pom
+2015-06-26 11:52:01,906 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.pom
+2015-06-26 11:52:02,000 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven/3.1.1/maven-3.1.1.pom
+2015-06-26 11:52:02,689 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven/3.1.1/maven-3.1.1.pom
+2015-06-26 11:52:02,808 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.pom
+2015-06-26 11:52:03,251 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.pom
+2015-06-26 11:52:03,356 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2015-06-26 11:52:03,898 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2015-06-26 11:52:04,405 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.pom
+2015-06-26 11:52:05,519 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.pom
+2015-06-26 11:52:05,594 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.pom
+2015-06-26 11:52:06,004 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.pom
+2015-06-26 11:52:06,140 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.pom
+2015-06-26 11:52:06,609 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.pom
+2015-06-26 11:52:06,918 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.pom
+2015-06-26 11:52:07,440 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.pom
+2015-06-26 11:52:07,564 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.pom
+2015-06-26 11:52:08,059 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.pom
+2015-06-26 11:52:08,093 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.pom
+2015-06-26 11:52:08,597 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.pom
+2015-06-26 11:52:08,779 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.pom
+2015-06-26 11:52:09,449 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.pom
+2015-06-26 11:52:09,534 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/sisu-plexus/0.0.0.M5/sisu-plexus-0.0.0.M5.pom
+2015-06-26 11:52:09,987 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/sisu-plexus/0.0.0.M5/sisu-plexus-0.0.0.M5.pom
+2015-06-26 11:52:10,178 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-06-26 11:52:10,849 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-06-26 11:52:10,959 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom
+2015-06-26 11:52:11,611 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom
+2015-06-26 11:52:11,684 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom
+2015-06-26 11:52:12,361 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom
+2015-06-26 11:52:12,467 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom
+2015-06-26 11:52:12,914 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom
+2015-06-26 11:52:13,037 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/jboss/weld/weld-parent/6/weld-parent-6.pom
+2015-06-26 11:52:13,741 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/jboss/weld/weld-parent/6/weld-parent-6.pom
+2015-06-26 11:52:13,821 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2015-06-26 11:52:14,415 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2015-06-26 11:52:14,574 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2015-06-26 11:52:15,067 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2015-06-26 11:52:15,134 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2015-06-26 11:52:15,517 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2015-06-26 11:52:15,593 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2015-06-26 11:52:15,659 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2015-06-26 11:52:15,721 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0.pom
+2015-06-26 11:52:16,435 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0.pom
+2015-06-26 11:52:16,503 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/sisu/inject/guice-parent/3.1.0/guice-parent-3.1.0.pom
+2015-06-26 11:52:17,242 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/sisu/inject/guice-parent/3.1.0/guice-parent-3.1.0.pom
+2015-06-26 11:52:17,302 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.pom
+2015-06-26 11:52:17,977 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.pom
+2015-06-26 11:52:18,409 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/sisu-inject/0.0.0.M5/sisu-inject-0.0.0.M5.pom
+2015-06-26 11:52:18,983 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/sisu-inject/0.0.0.M5/sisu-inject-0.0.0.M5.pom
+2015-06-26 11:52:19,126 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+2015-06-26 11:52:19,559 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+2015-06-26 11:52:19,867 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+2015-06-26 11:52:20,379 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+2015-06-26 11:52:20,539 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.pom
+2015-06-26 11:52:21,105 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.pom
+2015-06-26 11:52:22,463 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.pom
+2015-06-26 11:52:23,464 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.pom
+2015-06-26 11:52:24,560 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom
+2015-06-26 11:52:25,249 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom
+2015-06-26 11:52:25,393 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2015-06-26 11:52:25,978 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+2015-06-26 11:52:27,157 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom
+2015-06-26 11:52:27,564 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom
+2015-06-26 11:52:27,717 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2015-06-26 11:52:28,328 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+2015-06-26 11:52:29,361 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom
+2015-06-26 11:52:29,788 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom
+2015-06-26 11:52:29,973 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+2015-06-26 11:52:30,735 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+2015-06-26 11:52:33,489 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.jar
+2015-06-26 11:52:55,272 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-core/3.1.1/maven-core-3.1.1.jar
+2015-06-26 11:52:58,155 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.jar
+2015-06-26 11:53:05,209 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model/3.1.1/maven-model-3.1.1.jar
+2015-06-26 11:53:06,668 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.jar
+2015-06-26 11:53:07,785 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.jar
+2015-06-26 11:53:09,585 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.jar
+2015-06-26 11:53:13,263 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.jar
+2015-06-26 11:53:14,622 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.jar
+2015-06-26 11:53:17,111 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-repository-metadata/3.1.1/maven-repository-metadata-3.1.1.jar
+2015-06-26 11:53:19,580 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.jar
+2015-06-26 11:53:21,809 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-artifact/3.1.1/maven-artifact-3.1.1.jar
+2015-06-26 11:53:23,488 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.jar
+2015-06-26 11:53:24,798 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.jar
+2015-06-26 11:53:26,925 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.jar
+2015-06-26 11:53:29,682 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-model-builder/3.1.1/maven-model-builder-3.1.1.jar
+2015-06-26 11:53:31,001 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.jar
+2015-06-26 11:53:33,112 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/apache/maven/maven-aether-provider/3.1.1/maven-aether-provider-3.1.1.jar
+2015-06-26 11:53:34,818 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar
+2015-06-26 11:53:35,851 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar
+2015-06-26 11:53:37,469 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar
+2015-06-26 11:53:42,406 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar
+2015-06-26 11:53:44,544 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar
+2015-06-26 11:53:51,841 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar
+2015-06-26 11:53:51,922 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2015-06-26 11:53:55,231 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.jar
+2015-06-26 11:53:55,288 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar
+2015-06-26 11:53:59,440 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M5/org.eclipse.sisu.plexus-0.0.0.M5.jar
+2015-06-26 11:53:59,527 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
+2015-06-26 11:54:01,849 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
+2015-06-26 11:54:02,538 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2015-06-26 11:54:03,189 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2015-06-26 11:54:03,277 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/guava/guava/10.0.1/guava-10.0.1.jar
+2015-06-26 11:54:35,404 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/guava/guava/10.0.1/guava-10.0.1.jar
+2015-06-26 11:54:35,496 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2015-06-26 11:54:36,969 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2015-06-26 11:54:37,015 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar
+2015-06-26 11:54:47,192 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar
+2015-06-26 11:54:47,238 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar
+2015-06-26 11:54:48,427 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M5/org.eclipse.sisu.inject-0.0.0.M5.jar
+2015-06-26 11:54:48,495 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar
+2015-06-26 11:54:49,123 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar
+2015-06-26 11:54:49,214 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2015-06-26 11:54:50,480 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2015-06-26 11:54:52,376 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.jar
+2015-06-26 11:54:53,362 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.jar
+2015-06-26 11:54:53,451 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+2015-06-26 11:54:54,151 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+2015-06-26 11:54:54,238 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+2015-06-26 11:54:55,302 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+2015-06-26 11:54:56,415 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:54:56,439 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:54:56,442 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:54:56,442 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 11:54:56,442 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 11:54:56,648 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:54:57,680 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:54:57,680 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:54:57,683 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:56:12,538 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:56:12,539 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:56:12,540 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 11:56:20,646 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 11:56:20,647 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 11:56:20,649 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 14:28:57,512 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 14:28:57,836 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 14:28:57,838 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 14:29:08,905 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 14:29:08,907 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 14:29:08,908 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 14:29:35,744 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 14:29:35,745 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 14:29:35,748 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 14:30:33,801 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 14:30:33,802 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 14:30:33,804 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 14:30:35,959 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 14:30:35,960 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 14:30:35,961 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 16:13:31,921 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 16:13:33,447 [Worker-86] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/persistence/persistence-api/1.0.2/persistence-api-1.0.2.pom
+2015-06-26 16:13:34,217 [Worker-86] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/persistence/persistence-api/1.0.2/persistence-api-1.0.2.pom
+2015-06-26 16:13:34,295 [Worker-86] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/persistence/persistence-api/1.0.2/persistence-api-1.0.2.jar
+2015-06-26 16:13:34,773 [Worker-86] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://office2.cherrypicks.com:18081/nexus/content/groups/public/javax/persistence/persistence-api/1.0.2/persistence-api-1.0.2.jar
+2015-06-26 16:13:35,837 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:13:35,865 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 16:13:35,866 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 16:13:35,867 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 16:13:35,867 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 16:13:36,065 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:13:36,695 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:13:36,696 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 16:13:36,699 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 16:26:24,910 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hsbc.channel:sample:0.0.1 @ /Users/paullo/workspace/j2ee/sample/pom.xml.
+2015-06-26 16:26:27,644 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/main/java
+2015-06-26 16:26:27,644 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sample/src/main/resources
+2015-06-26 16:26:27,645 [Worker-107] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/test/java
+2015-06-26 16:26:27,856 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hsbc.channel:sample:0.0.1 @ /Users/paullo/workspace/j2ee/sample/pom.xml.
+2015-06-26 16:26:28,451 [Worker-107] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2015-06-26 16:26:30,123 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:26:30,125 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 16:26:30,128 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 16:34:36,226 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:34:36,227 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 16:34:36,229 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 16:54:14,057 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:54:14,058 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 16:54:14,060 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 16:54:43,355 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:54:43,356 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 16:54:43,357 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 16:57:57,452 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 16:57:57,452 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 16:57:57,454 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 17:00:00,117 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 17:00:03,255 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 17:00:03,255 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 17:00:03,256 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 17:00:03,257 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 17:00:03,257 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 17:00:03,356 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 17:00:04,651 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 17:00:04,652 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 17:00:04,654 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 17:00:34,661 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Task:App:0.0.1 @ /Users/paullo/workspace/TaskApp/Task/App/pom.xml.
+2015-06-26 17:00:35,215 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 17:00:35,216 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 17:00:35,218 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 17:00:35,219 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of App
+2015-06-26 17:00:35,219 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for App
+2015-06-26 17:00:35,223 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 17:00:36,578 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 17:00:36,578 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 17:00:36,581 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 17:01:16,792 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 17:01:16,793 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 17:01:16,795 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 18:24:39,174 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 18:24:39,196 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 18:24:39,199 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2015-06-26 18:25:50,685 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-26 18:25:50,686 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-26 18:25:50,688 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources

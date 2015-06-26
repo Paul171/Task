@@ -1,0 +1,8 @@
+package com.task.jpa;
+import javax.persistence.*;
+import java.util.List;
+
+
+public class TaskHibDAO {
+
+}

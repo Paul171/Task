@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.task.dao&apos; to &apos;com.task.jpa&apos;&#x0A;- Original project: &apos;App&apos;&#x0A;- Original element: &apos;App/src/main/java/com.task.dao&apos;&#x0A;- Renamed element: &apos;App/src/main/java/com.task.jpa&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.task.dao&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.task.dao" name="com.task.jpa" qualified="false" references="true" stamp="1435307675539" textual="false" version="1.0"/>
+</session>

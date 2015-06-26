@@ -1,0 +1,5 @@
+package con.task.model;
+
+public class Task {
+
+}
