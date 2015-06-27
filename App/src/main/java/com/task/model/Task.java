@@ -1,4 +1,4 @@
-package con.task.model;
+package com.task.model;
 
 import java.io.Serializable;
 
