@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-locationorg.eclipse.jst.server.tomcat.runtime.60=/Users/paullo/apache-tomcat-6.0.44
+locationorg.eclipse.jst.server.tomcat.runtime.60=/usr/local/Cellar/tomcat6/6.0.44/libexec

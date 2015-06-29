@@ -1,0 +1,16 @@
+package com.task.controller;
+
+import java.util.logging.Logger;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
+@Controller
+public class TaskController {
+	@RequestMapping("hello")
+	public String userPage(@RequestParam("user") String user, Model m){
+		
+		m.addAttribute("user",user);
+		return "index";
+	}
+}

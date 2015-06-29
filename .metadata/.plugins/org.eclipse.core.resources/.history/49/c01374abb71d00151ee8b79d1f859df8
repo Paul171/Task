@@ -1,0 +1,15 @@
+package com.task.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
+@Controller
+public class TaskController {
+	public TaskController(){
+		
+	}
+	@RequestMapping("user")
+	public String userPage(@RequestParam("user") String user, Model m){
+		return user;
+	}
+}

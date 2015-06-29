@@ -19,4 +19,5 @@ public class TaskHibDAO {
         config.setProperty("hibernate.connection.password", dbPassword);
         emf = Persistence.createEntityManagerFactory("TaskApp", config);		
 	}
+	
 }
