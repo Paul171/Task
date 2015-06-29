@@ -756,3 +756,7 @@
 2015-06-29 23:54:35,720 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-06-29 23:54:35,720 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-06-29 23:54:35,721 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/lopuilam/Task/App/src/test/resources
+2015-06-30 00:55:09,020 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-30 00:55:09,021 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-30 00:55:09,022 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-30 00:55:09,022 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/lopuilam/Task/App/src/test/resources
