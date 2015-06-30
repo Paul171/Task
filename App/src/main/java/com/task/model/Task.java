@@ -50,6 +50,9 @@ public class Task implements Serializable {
 	public void setContent(String content){
 		this.content = content;
 	}
+	public Integer getId(){
+		return id;
+	}
 	 @Override
     public int hashCode() {
         int hash = 0;
