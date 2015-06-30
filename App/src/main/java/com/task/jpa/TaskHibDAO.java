@@ -66,7 +66,7 @@ public class TaskHibDAO {
 		}
 	}
 	public int getTaskCount() {
-        EntityManager em = getEntityManager();
+        em = getEntityManager();
         try {
             TypedQuery<Integer> q = em.createQuery("select count(o) from TaskApp as o", Integer.class);
             return q.getSingleResult().intValue();
@@ -74,5 +74,15 @@ public class TaskHibDAO {
             em.close();
         }
     }
-	
+	public void createTask(String name, String content, String priority){
+		em = getEntityManager();
+		try{
+			Task t = new Task(name, content, priority);
+			em.getTransaction().begin();
+			em.persist(t);
+			em.getTransaction().commit();
+		}finally{
+			em.close();
+		}
+	}
 }
