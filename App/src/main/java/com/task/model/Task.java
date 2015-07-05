@@ -5,18 +5,21 @@ import java.io.Serializable;
 import javax.persistence.Basic;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 
 @Entity
-@Table(name="TaskApp")
+@Table(name="Task")
 public class Task implements Serializable {
 	private static final long serialVersionUID = 1L;
 	@Id
 	@Basic(optional = false)
 	@Column(name = "ID")
-	 private Integer id =0;
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	 private Long id;
 	
 	@Column(name = "Name")
 	private String name;
@@ -29,7 +32,7 @@ public class Task implements Serializable {
 	
 	public Task(){}
 	
-	public Task(Integer id){
+	public Task(Long id){
 		this.id = id;
 	}
 	public Task(String name, String content, String priority){
@@ -55,7 +58,7 @@ public class Task implements Serializable {
 	public void setContent(String content){
 		this.content = content;
 	}
-	public Integer getId(){
+	public Long getId(){
 		return id;
 	}
 	 @Override

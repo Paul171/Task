@@ -4,5 +4,8 @@
 <html>
 <body>
 <h2>Hello World! <c:out value='${user}' /></h2>
+<form:form action="addTask" method="post">
+
+</form:form>
 </body>
 </html>

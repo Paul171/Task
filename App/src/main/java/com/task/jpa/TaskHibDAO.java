@@ -1,11 +1,16 @@
 package com.task.jpa;
 import javax.persistence.*;
+
+import org.springframework.stereotype.Component;
+
 import java.util.List;
 import java.util.Properties;
-import com.task.model.Task;
 
+import com.task.model.Task;
+@Component
 public class TaskHibDAO {
-	private EntityManager em = null;
+	@PersistenceContext(unitName = "TaskApp")
+	private EntityManager em;
 	private EntityManagerFactory emf = null;
 	public TaskHibDAO(){
 		emf = Persistence.createEntityManagerFactory("TaskApp");
@@ -23,21 +28,21 @@ public class TaskHibDAO {
 		return emf.createEntityManager();
 	}
 	public void create(Task task) throws Exception{
-		try{
-			em = getEntityManager();
-			em.getTransaction().begin();
-			em.persist(task);
-			em.getTransaction().commit();
-		}catch(Exception e){
-			if(findTask(task.getId())!= null){
-				throw new Exception("Task not found");
-			}
-			throw e;
-		}finally{
-			if(em != null){
-				em.close();
-			}
-		}		
+//		try{
+//			em = getEntityManager();
+//			em.getTransaction().begin();
+			this.em.persist(task);
+//			em.getTransaction().commit();
+//		}catch(Exception e){
+//			if(findTask(task.getId())!= null){
+//				throw new Exception("Task not found");
+//			}
+//			throw e;
+//		}finally{
+//			if(em != null){
+//				em.close();
+//			}
+//		}		
 	}
 	public Task findTask(Integer id){
 		em = getEntityManager();
