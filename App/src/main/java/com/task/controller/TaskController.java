@@ -23,7 +23,7 @@ public class TaskController {
 		return "index";
 	}
 	@Transactional
-	@RequestMapping(value = "addTask", method= RequestMethod.POST)
+	@RequestMapping(value = "addTask", method = RequestMethod.POST)
 	public String addTask(Writer writer, Model m) throws IOException{
 		Task task = new Task("Task","Content","1");
 		try{
@@ -35,5 +35,9 @@ public class TaskController {
 		}
 		writer.write("finish");
 		return "index";
+	}
+	@RequestMapping("addTaskForm")
+	public String addTaskForm(Model m) throws IOException{
+		return "addTaskForm";
 	}
 }

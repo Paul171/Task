@@ -18,7 +18,6 @@ public class Task implements Serializable {
 	@Id
 	@Basic(optional = false)
 	@Column(name = "ID")
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	 private Long id;
 	
 	@Column(name = "Name")
@@ -30,6 +29,8 @@ public class Task implements Serializable {
 	@Column(name = "Priority")
 	private String priority;
 	
+	@Column(name = "Percentage")
+	private Integer percentage;
 	public Task(){}
 	
 	public Task(Long id){
@@ -60,6 +61,15 @@ public class Task implements Serializable {
 	}
 	public Long getId(){
 		return id;
+	}
+	public void setId(Long Id){
+		this.id = Id;
+	}
+	public Integer getPercentage(){
+		return this.percentage;
+	}
+	public void setPercentage(Integer percentage){
+		this.percentage = percentage;
 	}
 	 @Override
     public int hashCode() {

@@ -31,6 +31,8 @@ public class TaskHibDAO {
 //		try{
 //			em = getEntityManager();
 //			em.getTransaction().begin();
+			TypedQuery<Long> q = em.createQuery("Select count(t.id) from Task t",Long.class);
+			task.setId(q.getSingleResult()+1);
 			this.em.persist(task);
 //			em.getTransaction().commit();
 //		}catch(Exception e){
