@@ -40,4 +40,8 @@ public class TaskController {
 	public String addTaskForm(Model m) throws IOException{
 		return "addTaskForm";
 	}
+	@RequestMapping(value="Task/{name}", method = RequestMethod.GET)
+	public @ResponseBody Task getTask(@PathVariable String name){
+		return new Task("TaskName","TaskContent","1");
+	}
 }
