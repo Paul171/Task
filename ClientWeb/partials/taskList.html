@@ -1,0 +1,10 @@
+<div ng-controller="taskList">
+	<h1>{{name}}</h1>
+	<ul>
+		<li ng-repeat="task in tasks">
+			{{task.id}}
+		</li>
+	</ul>
+	<button type="button" class="btn btn-primary">Continue</button>
+	<progressbar class="progress-striped active" max="200" value="166" type="danger"><i>166 / 200</i></progressbar>
+</div>

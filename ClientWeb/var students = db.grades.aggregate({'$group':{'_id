@@ -1,0 +1,21 @@
+var students = db.students.find({});
+for( i = 0; i < students.count(); i++){
+	var scores = students[i].scores;
+	var count  = 0;
+	var score  = null;
+	for( j = 0; j < scores.length; j++){
+		if( scores[j].type == 'homework'){
+			count += 1;
+			if(score === null){
+				score = scores[j];
+			}else{
+				if(score.score > scores[j].score){
+					score = scores[j];
+				}
+			}
+		}
+	}
+	if( count > 1){
+		db.students.update({'_id': students[i]['_id']},{$pull:{'scores':score}});
+	}
+}

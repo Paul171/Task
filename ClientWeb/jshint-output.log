@@ -1,0 +1,5 @@
+2 lint errors found in /Users/lopuilam/Task/ClientWeb/controller/main.js
+  [1,1](W097) Use the function form of "use strict".
+  [2,15](W117) 'angular' is not defined.2 lint errors found in /Users/lopuilam/Task/ClientWeb/controller/service.js
+  [1,1](W097) Use the function form of "use strict".
+  [2,20](W117) 'angular' is not defined.

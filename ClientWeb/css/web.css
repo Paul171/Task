@@ -1,0 +1,29 @@
+#canvasDiv .header {
+  display: inline-block;
+  position: relative;
+  width: 40%; }
+
+@media (max-width: 767px) {
+  #canvasDiv .header {
+    width: 90%;
+    display: block; } }
+
+/* IE10 */
+@-ms-viewport {
+  width: device-width; }
+
+/* used for windows phone 8 older than update 3 */
+@-webkit-viewport {
+  width: device-width; }
+
+@-moz-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@viewport {
+  width: device-width; }
