@@ -10,7 +10,8 @@
     "url": "https://github.com/Paul171/Task.git"
   },
   "scripts": {
-    "start": "rm -rf /usr/local/Cellar/tomcat6/6.0.44/libexec/webapps/ROOT/ClientWeb && cp -R . /usr/local/Cellar/tomcat6/6.0.44/libexec/webapps/ROOT/ClientWeb/"
+    "setup": "mysql.server start && /usr/local/Cellar/tomcat6/6.0.44/libexec/bin/startup.sh",
+    "start": "rm -rf /usr/local/Cellar/tomcat6/6.0.44/libexec/webapps/ROOT/ClientWeb && cp -R . /usr/local/Cellar/tomcat6/6.0.44/libexec/webapps/ROOT/ClientWeb/ /usr/L"
   },
   "private": true,
   "devDependencies": {
